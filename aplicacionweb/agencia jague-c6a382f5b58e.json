@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agencia-jague",
+  "private_key_id": "c6a382f5b58e94208c908eacc99797c5adcdc911",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYWs5DvT9uZfAx\ndZ5LiDwUBdjE6m/QLfsDlDHbOB1J6zZjK8r3S1bvdtCK17cYzf/Sjtm3IWn344MK\nzRDWWa9QnjedtQxrve+DsePnQcESvxlHF7WdXyO/09GG5qZPHWztM70lHbQ/+Uae\nIs/J7ubak9Y5pVDDKcLqgH48Q7rgRADbVPmXvGFginRHnfHA6Dbo3okNtQMzjhJQ\nOMraG3UKJAwo/aBDzcWa+umcKf+wjh31sveyXsd9CXp/RqJ81W3Cf5RDESyul+l2\nFAk2fCAjl6QKKM5nBsLTbEza47/QM/ZLyCjknPRaoQdTyVxI8jZjfHSB30H8nlmH\n2aI+Y8ItAgMBAAECggEAf5gdArItu2F4BZQBnDReTE6ROmk0d17qyBaGopeeP9fT\nVr7IXs8j4azZ/k2mtAlh5I9qWmqLeuV5S8RuA3Zc0uGOpm+IFXueaebDfVuePPr6\nSoXavg99uxvEcHwecEeugAFCuSDlYmZ789gnuXBwukHxuZlvx+LjsM0n64S1rzc5\nrKbPJljW7knFylZG5wP555ztTnzRpc9gRD+0aCvAvMY/uggb4DPk2eyFOTG+0RhK\nBzUU1gd/LyK9Cc7+nslb/bPJEorrTPH/B1Q83OuGYKw3eEg3NCMATv5emLaKYcbP\nXh7eDS8syth9+AxvhQi4NSoQIf/RS2bZFvjS9mFU6QKBgQDLAqSDiIcNkKVcNr2T\nEKgBzDfXChFfvhimRifDtbV9MjbncTTknN/1kmEaJCiZgyPANyu3y57Rtmp4jtJE\nw9D72jkx5QJ3qu8vowMkr5Zq43kzLcwl/77B4WH1ql4Cda+5ExCv2K9IUUwHE6Mw\nRPI1HmMxye7zqbqQb9FTp95OWwKBgQDAH02gnp+jM3j6KJIBXGJYYBK5PLW+jhJV\nyvNVHBhjgnuRR+PxyJF+XTQILXeBm784vaCrXBJoimDl6gSNt+9zzizPuRf2LIoe\nkxq5VLfHMosUPIx/E63P4yYo7MFjzJj/twNePIh6NDMR12q/STTdBStx64jR1u7Y\nxDeJgC2oFwKBgDwSlx35C4W/FL+ZzzUyi5Skmq1+ZC/Br8ecIO4v2fmnH0oTXMR9\ni2Q+oY87vevXO4AIk1462c9SvGTaVmxUyYWNSLlz++vvYAHnqel0L/2HPHkhhzSD\nXi4/BF7OwCzYKFyKwLhYVV3/+JBrhjGlZUrEqDO2fogJ5JQTEo0/sm/bAoGANFbS\n0RUlrFJTfOMck55VdHoH38r4QEd4G0NE80TKKCHeBAAvyyi26lP93tR0IC0L9StD\n4CsfILfCGiCcyPb5FvVuI9DrBDeyEQ5GU4MO5geQ+BxesifsTBw3wyJstQGCFPgI\nxN182L3rw8qJ3D7XVfcYlNpz1abWPtuFvcHbrlUCgYAajpjfGT1x9YWJuNKDl29C\nsJmzXnuOgEa3LjapQ+DRq4Au7e848SXOvJyJfdottnR98Pjr3h31EulnQwn1DNtR\nuB1fUilNcF6IR8FySFKYVypt3eztKiAU2jO7wQrPI2m/dbrYeR9ovnr4DfbSDd1f\nRTXOlf28GlDMeebYHiygEg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jaque-543@agencia-jague.iam.gserviceaccount.com",
+  "client_id": "101884707044254856196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jaque-543%40agencia-jague.iam.gserviceaccount.com"
+}
