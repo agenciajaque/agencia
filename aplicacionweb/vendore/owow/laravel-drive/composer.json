@@ -1,0 +1,16 @@
+{
+    "name": "owow/laravel-drive",
+    "description": "A Laravel package for the Google Drive API",
+    "type": "library",
+    "license": "Beerware",
+    "authors": [
+        {
+            "name": "dees040",
+            "email": "dees@owow.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "google/apiclient": "2.0.*@rc"
+    }
+}
